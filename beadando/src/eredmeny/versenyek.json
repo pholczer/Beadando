@@ -1,0 +1,58 @@
+[
+  {
+    "azonosito": "V-0001",
+    "nev": "Velika nagrada Novo mesto",
+    "orszag": "Szlovénia",
+    "ev": 2016,
+    "tav_km": 151,
+    "gyoztes_azonosito": "SZ-0005"
+  },
+  {
+    "azonosito": "V-0002",
+    "nev": "Tour of Port Ben",
+    "orszag": "Egyesült Királyság",
+    "ev": 2019,
+    "tav_km": 162,
+    "gyoztes_azonosito": "SZ-0002"
+  },
+  {
+    "azonosito": "V-0003",
+    "nev": "Koblenz Rundfahrt",
+    "orszag": "Németország",
+    "ev": 2023,
+    "tav_km": 144,
+    "gyoztes_azonosito": "SZ-0029"
+  },
+  {
+    "azonosito": "V-0004",
+    "nev": "Ribnitz-Damgarten Rundfahrt",
+    "orszag": "Németország",
+    "ev": 2016,
+    "tav_km": 218,
+    "gyoztes_azonosito": "SZ-0027"
+  },
+  {
+    "azonosito": "V-0005",
+    "nev": "Tour de Saint Nicole-la-Forêt",
+    "orszag": "Franciaország",
+    "ev": 2023,
+    "tav_km": 218,
+    "gyoztes_azonosito": "SZ-0001"
+  },
+  {
+    "azonosito": "V-0006",
+    "nev": "Tour of New Gabrielside",
+    "orszag": "Egyesült Államok",
+    "ev": 2021,
+    "tav_km": 136,
+    "gyoztes_azonosito": "SZ-0017"
+  },
+  {
+    "azonosito": "V-0007",
+    "nev": "Holsted Rundt",
+    "orszag": "Dánia",
+    "ev": 2022,
+    "tav_km": 99,
+    "gyoztes_azonosito": "SZ-0016"
+  }
+]

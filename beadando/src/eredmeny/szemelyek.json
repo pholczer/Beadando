@@ -1,0 +1,212 @@
+[
+  {
+    "azonosito": "SZ-0001",
+    "nev": "Gustaw Glegoła",
+    "orszag": "Lengyelország",
+    "kor": 25,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0002",
+    "nev": "Nela Veselá",
+    "orszag": "Csehország",
+    "kor": 31,
+    "ferfi": false
+  },
+  {
+    "azonosito": "SZ-0003",
+    "nev": "Pauline Koch II",
+    "orszag": "Németország",
+    "kor": 28,
+    "ferfi": false
+  },
+  {
+    "azonosito": "SZ-0004",
+    "nev": "Rémy-Théophile Simon",
+    "orszag": "Franciaország",
+    "kor": 21,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0005",
+    "nev": "Donato Martin Ros",
+    "orszag": "Spanyolország",
+    "kor": 25,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0006",
+    "nev": "Edward Francis",
+    "orszag": "Egyesült Királyság",
+    "kor": 38,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0007",
+    "nev": "Asdrubal de Agullo",
+    "orszag": "Spanyolország",
+    "kor": 31,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0008",
+    "nev": "Christian Baker",
+    "orszag": "Egyesült Államok",
+    "kor": 28,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0009",
+    "nev": "Chema Cózar Fernandez",
+    "orszag": "Spanyolország",
+    "kor": 20,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0010",
+    "nev": "Bruno Leszczak",
+    "orszag": "Lengyelország",
+    "kor": 28,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0011",
+    "nev": "Stanislav Moravec",
+    "orszag": "Csehország",
+    "kor": 35,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0012",
+    "nev": "Mohamed Naylor",
+    "orszag": "Egyesült Királyság",
+    "kor": 24,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0013",
+    "nev": "Aimée Uit de Willigen-d' Heripon",
+    "orszag": "Hollandia",
+    "kor": 37,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0014",
+    "nev": "Guillaume Costa de la Meyer",
+    "orszag": "Franciaország",
+    "kor": 35,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0015",
+    "nev": "Kristijan Kočevar",
+    "orszag": "Szlovénia",
+    "kor": 29,
+    "ferfi": false
+  },
+  {
+    "azonosito": "SZ-0016",
+    "nev": "Carlota Tavares",
+    "orszag": "Portugália",
+    "kor": 23,
+    "ferfi": false
+  },
+  {
+    "azonosito": "SZ-0017",
+    "nev": "Matouš Macháček",
+    "orszag": "Csehország",
+    "kor": 18,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0018",
+    "nev": "Scott Carter",
+    "orszag": "Egyesült Királyság",
+    "kor": 27,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0019",
+    "nev": "Gabriel Urrutia Bellido",
+    "orszag": "Spanyolország",
+    "kor": 28,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0020",
+    "nev": "Tymoteusz Kulis",
+    "orszag": "Lengyelország",
+    "kor": 23,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0021",
+    "nev": "Lennarth Thomsen",
+    "orszag": "Dánia",
+    "kor": 40,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0022",
+    "nev": "Lilla Spinelli-Pagliaro",
+    "orszag": "Olaszország",
+    "kor": 37,
+    "ferfi": false
+  },
+  {
+    "azonosito": "SZ-0023",
+    "nev": "Reinaldo Arjona Lerma",
+    "orszag": "Spanyolország",
+    "kor": 37,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0024",
+    "nev": "Papp Balázs Dániel",
+    "orszag": "Magyarország",
+    "kor": 40,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0025",
+    "nev": "Emma Feenstra",
+    "orszag": "Hollandia",
+    "kor": 30,
+    "ferfi": false
+  },
+  {
+    "azonosito": "SZ-0026",
+    "nev": "Erin Thomas",
+    "orszag": "Ausztrália",
+    "kor": 22,
+    "ferfi": false
+  },
+  {
+    "azonosito": "SZ-0027",
+    "nev": "Johan Davids",
+    "orszag": "Németország",
+    "kor": 38,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0028",
+    "nev": "Martin Prokop",
+    "orszag": "Csehország",
+    "kor": 37,
+    "ferfi": true
+  },
+  {
+    "azonosito": "SZ-0029",
+    "nev": "Tatiana Florio",
+    "orszag": "Olaszország",
+    "kor": 23,
+    "ferfi": false
+  },
+  {
+    "azonosito": "SZ-0030",
+    "nev": "Luboš Bartoš",
+    "orszag": "Csehország",
+    "kor": 30,
+    "ferfi": true
+  }
+]

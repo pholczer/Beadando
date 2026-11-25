@@ -1,0 +1,38 @@
+[
+  {
+    "azonosito": "CS-0001",
+    "nev": "Team Scheuermann",
+    "orszag": "Németország",
+    "kapitany_azonosito": "SZ-0027"
+  },
+  {
+    "azonosito": "CS-0002",
+    "nev": "Matějková Racing",
+    "orszag": "Csehország",
+    "kapitany_azonosito": "SZ-0028"
+  },
+  {
+    "azonosito": "CS-0003",
+    "nev": "Team Pages",
+    "orszag": "Franciaország",
+    "kapitany_azonosito": "SZ-0004"
+  },
+  {
+    "azonosito": "CS-0004",
+    "nev": "Team Lassen",
+    "orszag": "Dánia",
+    "kapitany_azonosito": "SZ-0021"
+  },
+  {
+    "azonosito": "CS-0005",
+    "nev": "Team van Daal",
+    "orszag": "Hollandia",
+    "kapitany_azonosito": "SZ-0025"
+  },
+  {
+    "azonosito": "CS-0006",
+    "nev": "Müller Racing",
+    "orszag": "Csehország",
+    "kapitany_azonosito": "SZ-0002"
+  }
+]
